@@ -1,0 +1,27 @@
+----------------------------------------
+Begin PBS Prologue Wed May  6 15:46:07 CDT 2009
+Job ID:		1976220.tg-master.ncsa.teragrid.org
+Username:	tanx09
+Group:		czh
+Nodes:		tg-cs03 
+End PBS Prologue Wed May  6 15:46:10 CDT 2009
+----------------------------------------
+Warning: no access to tty (Bad file descriptor).
+Thus no job control in this shell.
+----------------------------------------
+Begin PBS Epilogue Wed May  6 15:46:23 CDT 2009
+Job ID:		1976220.tg-master.ncsa.teragrid.org
+Username:	tanx09
+Group:		czh
+Job Name:	run.sh
+Session:	13324
+Limits:		ncpus=1,walltime=00:10:00
+Resources:	cput=00:00:00,mem=0kb,vmem=0kb,walltime=00:00:12
+Queue:		dque
+Account:		czh
+Nodes:		tg-cs03 
+
+Killing leftovers...
+
+End PBS Epilogue Wed May  6 15:46:26 CDT 2009
+----------------------------------------

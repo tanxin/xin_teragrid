@@ -1,0 +1,11 @@
+myproxy-logon -T -l xtan
+gsissh tg-login.sdsc.teragrid.org
+soft
+softenv 
+tgwhereami
+tg-policy -fs
+myprojects
+tgusage list
+qsub run.sh
+pbsnodes -a
+qstat -a

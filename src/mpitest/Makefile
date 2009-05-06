@@ -1,0 +1,2 @@
+mpitest:
+	mpicc mpitest.c
